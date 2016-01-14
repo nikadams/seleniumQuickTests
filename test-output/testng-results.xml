@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40583" started-at="2016-01-14T04:22:27Z" finished-at="2016-01-14T04:23:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40583" started-at="2016-01-14T04:22:27Z" finished-at="2016-01-14T04:23:08Z">
+      <class name="com.sqa.na.selenium.ActionsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.sqa.na.selenium.ActionsTest@5093acc2]" name="setup" is-config="true" duration-ms="6002" started-at="2016-01-13T20:22:27Z" finished-at="2016-01-13T20:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testSortable()[pri:0, instance:com.sqa.na.selenium.ActionsTest@5093acc2]" name="testSortable" duration-ms="33947" started-at="2016-01-13T20:22:33Z" finished-at="2016-01-13T20:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortable -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sqa.na.selenium.ActionsTest@5093acc2]" name="tearDown" is-config="true" duration-ms="607" started-at="2016-01-13T20:23:07Z" finished-at="2016-01-13T20:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sqa.na.selenium.ActionsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
