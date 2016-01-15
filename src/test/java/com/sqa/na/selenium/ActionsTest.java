@@ -118,8 +118,6 @@ public class ActionsTest {
 		// actions.click(elements.get(0));
 		actions.clickAndHold(elements.get(0));
 		actions.moveToElement(elements.get(5));
-		// actions.dragAndDrop(elements.get(0), elements.get(4));
-
 		actions.perform();
 
 	}
