@@ -39,9 +39,6 @@ public class HomePage {
 
 	private WebDriver driver;
 
-	@FindBy(css = "a.a-link-normal.s-access-detail-page.a-text-normal[title=Head First Java, 2nd Edition]")
-	private WebElement headFirstBookLink;
-
 	@FindBy(id = "nav-link-yourAccount")
 	private WebElement loginBtn;
 
