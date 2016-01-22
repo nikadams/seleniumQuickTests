@@ -2,8 +2,6 @@
  *   File Name: HomePage.java<br>
  *
  *   Adams, Nik<br>
- *   Java Boot Camp Exercise<br>
- *   Instructor: Jean-francois Nepton<br>
  *   Created: Jan 14, 2016
  *
  */

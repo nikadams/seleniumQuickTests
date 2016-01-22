@@ -47,6 +47,7 @@ public class ShoppingCartTest {
 		homepage.clickSearchBtn();
 		homepage.clickItemOnPageLink("The Testing");
 		homepage.clickAddToCartBtn();
+		homepage.clickCartBtn();
 
 		homepage.clickLogOut();
 	}

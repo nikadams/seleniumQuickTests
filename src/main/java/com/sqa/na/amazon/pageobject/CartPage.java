@@ -2,8 +2,6 @@
  *   File Name: CartPage.java<br>
  *
  *   Adams, Nik<br>
- *   Java Boot Camp Exercise<br>
- *   Instructor: Jean-francois Nepton<br>
  *   Created: Jan 21, 2016
  *
  */
