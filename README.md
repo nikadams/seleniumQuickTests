@@ -1,2 +1,2 @@
-# seleniumQuickTests
-Automated Quick tests for selenium training
+# seleniumTests
+Automated tests for selenium
