@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.sqa.na.selenium.ActionsTest">
+      <class name="com.sqa.na.amazon.test.ShoppingCartTest">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="testSelectable"/>
+          <include name="testAddItems"/>
         </methods>
-      </class> <!-- com.sqa.na.selenium.ActionsTest -->
+      </class> <!-- com.sqa.na.amazon.test.ShoppingCartTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
